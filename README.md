@@ -1,6 +1,6 @@
 # Scikit-learn tutorial for the Austin Python Meetup group
 
-This is a very short tutorial on scikit-learn. You can find much more complete ones at the following links, among others:
+This is a very short tutorial on scikit-learn, and only covers very simple classification and cross-validation. You can find much more complete tutorials at the following links, among others:
 
 - [Official tutorial](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 - [Scipy conference](https://github.com/amueller/scipy-2016-sklearn)
