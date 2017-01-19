@@ -13,5 +13,7 @@ To run the notebook in this tutorial, you will need the following packages insta
 - pandas
 - matplotlib
 - seaborn
+- jupyter
+- ipython
 
 I recommend the anaconda python distribution, which comes with all of the above pre-loaded.
